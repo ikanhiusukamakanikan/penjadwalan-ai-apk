@@ -690,7 +690,7 @@ def visualize_jadwal(jadwal, wahana_df, patient_counts, peserta_df=None):
 
 st.title("Artificial Intelligence Penjadwalan Peserta Didik di Wahana Kesehatan")
 st.markdown("""
-Sistem ini menggunakan teknik klasik dalam AI seperti Searching, Reasoning, dan Planning untuk mengoptimalkan penjadwalan peserta didik 
+Sistem ini menggunakan teknik klasik dalam AI yaitu Planning lebih tepatnya Constraint Planning untuk mengoptimalkan penjadwalan peserta didik 
 di wahana kesehatan berdasarkan kebutuhan pasien.
 """)
 
